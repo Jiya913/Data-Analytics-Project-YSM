@@ -1,0 +1,4 @@
+1. Open your terminal in the project folder:
+2. Then type:
+streamlit run Main.py
+and enter
